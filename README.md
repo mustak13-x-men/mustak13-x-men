@@ -1,18 +1,110 @@
-# 💫 About Me:
-# Hi 👋, I'm Md Mustak<br><br>🎓 Final Year B.Tech Student (Artificial Intelligence & Machine Learning)<br><br>💻 Passionate about AI, Machine Learning, Generative AI, and Full-Stack Development.<br><br>🌱 Currently learning:<br>- Large Language Models (LLMs)<br>- LangChain<br>- FastAPI<br>- TensorFlow & PyTorch<br>- React & Next.js<br><br>🚀 Interested in building:<br>- AI Chatbots<br>- Computer Vision Applications<br>- NLP Projects<br>- Full-Stack AI Applications<br><br>🛠️ Tech Stack:<br>- Python<br>- Java<br>- SQL<br>- JavaScript<br>- React<br>- Next.js<br>- FastAPI<br>- Flask<br>- TensorFlow<br>- PyTorch<br>- MongoDB<br>- Git & GitHub<br><br>📫 Reach me:<br>- LinkedIn: (Add your LinkedIn link)<br>- Email: (Add your email)<br><br>⭐ Always learning, building, and contributing to open-source projects.
+# <h1 align="center">👨‍💻 Md Mustak</h1>
 
+<h3 align="center">Final Year B.Tech (AI & ML) | AI & Full-Stack Developer | Generative AI Enthusiast</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/md-mustak-317900282) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Md Mustak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:md3133613@gmail.com) 
+# 💫 About Me
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustak13-x-men&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mustak13-x-men&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustak13-x-men&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔭 **Currently working on:** AI-powered applications, Full-Stack Development, and Machine Learning projects.
+
+👯 **Looking to collaborate on:** Open-source AI, Machine Learning, NLP, Computer Vision, and Full-Stack projects.
+
+🤝 **Looking for help with:** Advanced LLMs, MLOps, System Design, and scalable AI applications.
+
+🌱 **Currently learning:**
+
+* Large Language Models (LLMs)
+* LangChain & AI Agents
+* FastAPI & React
+* TensorFlow & PyTorch
+* Docker & Cloud Deployment
+
+💬 **Ask me about:**
+
+* Python
+* Java
+* SQL
+* Machine Learning
+* Deep Learning
+* NLP
+* Computer Vision
+* FastAPI
+* React
+* Git & GitHub
+
+🚀 **Projects I'm building:**
+
+* AI Chatbots
+* Resume Analyzer
+* SoilGuard AI
+* Smart City Assistant
+* Computer Vision Applications
+* Full-Stack AI Web Apps
+
+🎯 **Career Goal:**
+To become an AI Engineer specializing in Generative AI, Machine Learning, and Intelligent Full-Stack Applications.
+
+⚡ **Fun Fact:**
+I enjoy solving real-world problems using AI and continuously learning new technologies while contributing to open-source projects.
 
 ---
-[![](https://komarev.com/ghpvc/?username=mustak13-x-men&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/md-mustak-317900282)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:md3133613@gmail.com)
+
+---
+
+## 🚀 Coding Profiles
+
+<div align="center">
+
+<!-- Add your coding profile links -->
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a> <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+Python • Java • SQL • JavaScript • HTML • CSS
+
+### AI / ML
+
+TensorFlow • PyTorch • Scikit-learn • Keras • NumPy • Pandas • OpenCV • LangChain
+
+### Backend
+
+FastAPI • Flask • REST APIs
+
+### Frontend
+
+React • Next.js • Bootstrap
+
+### Database
+
+MongoDB • MySQL • SQLite
+
+### DevOps & Tools
+
+Git • GitHub • Docker • Firebase • Vercel • Render
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=mustak13-x-men\&theme=dark\&show_icons=true)
+
+![](https://streak-stats.demolab.com/?user=mustak13-x-men\&theme=dark)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustak13-x-men\&layout=compact\&theme=dark)
+
+---
+
+![](https://komarev.com/ghpvc/?username=mustak13-x-men\&style=flat-square)
+
+⭐ *Always learning, building AI solutions, and contributing to open-source projects.*
