@@ -1,19 +1,19 @@
-<h1 align="center">👨‍💻 Md Mustak</h1>
+<h1 align="center">Md Mustak</h1>
 <h3 align="center">
 Final Year B.Tech (Artificial Intelligence & Machine Learning) | AI & Full-Stack Developer | Generative AI Enthusiast
 </h3>
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🔭 **Currently working on:** AI-powered applications, Full-Stack Development, and Machine Learning projects.
+ **Currently working on:** AI-powered applications, Full-Stack Development, and Machine Learning projects.
 
-👯 **Looking to collaborate on:** Open-source AI, Machine Learning, NLP, Computer Vision, and Full-Stack projects.
+**Looking to collaborate on:** Open-source AI, Machine Learning, NLP, Computer Vision, and Full-Stack projects.
 
-🤝 **Looking for help with:** Advanced LLMs, MLOps, System Design, and scalable AI applications.
+**Looking for help with:** Advanced LLMs, MLOps, System Design, and scalable AI applications.
 
-🌱 **Currently learning:**
+ **Currently learning:**
 - Large Language Models (LLMs)
 - LangChain
 - FastAPI
@@ -21,7 +21,7 @@ Final Year B.Tech (Artificial Intelligence & Machine Learning) | AI & Full-Stack
 - React & Next.js
 - Docker & Cloud Deployment
 
-💬 **Ask me about:**
+ **Ask me about:**
 - Python
 - Java
 - SQL
@@ -33,7 +33,7 @@ Final Year B.Tech (Artificial Intelligence & Machine Learning) | AI & Full-Stack
 - React
 - Git & GitHub
 
-🚀 **Projects I'm building:**
+**Projects I'm building:**
 - AI Chatbots
 - Resume Analyzer
 - SoilGuard AI
@@ -41,22 +41,22 @@ Final Year B.Tech (Artificial Intelligence & Machine Learning) | AI & Full-Stack
 - Computer Vision Applications
 - Full-Stack AI Web Apps
 
-🎯 **Career Goal:**
+**Career Goal:**
 Become an AI Engineer specializing in Generative AI, Machine Learning, and Intelligent Full-Stack Applications.
 
-⚡ **Fun Fact:**
+ **Fun Fact:**
 I enjoy solving real-world problems using AI and continuously learning new technologies.
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mustak-317900282)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md3133613@gmail.com)
 
 ---
 
-## 🚀 Coding Profiles
+##  Coding Profiles
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I enjoy solving real-world problems using AI and continuously learning new techn
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -128,7 +128,7 @@ I enjoy solving real-world problems using AI and continuously learning new techn
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mustak13-x-men&theme=tokyonight&show_icons=true)
 
@@ -138,19 +138,19 @@ I enjoy solving real-world problems using AI and continuously learning new techn
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mustak13-x-men&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mustak13-x-men&theme=tokyo-night)
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mustak13-x-men&label=Profile%20Views&color=0e75b6&style=flat)
 
